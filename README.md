@@ -32,13 +32,13 @@ Follow these steps to get the project up and running on your local machine.
 
 2. **Install dependencies for backend**:
     ```bash
-    cd backend
+    cd school-backend
     npm install
     ```
 
 3. **Install dependencies for frontend**:
     ```bash
-    cd ../frontend
+    cd ../client
     npm install
     ```
 
