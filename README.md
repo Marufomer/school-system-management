@@ -6,7 +6,7 @@
 
 The School System Web Application is a comprehensive platform designed to manage the operations of a school. It includes dedicated dashboards for students, teachers, and administrators, allowing efficient management of classes, exams, scores, and more. This project was inspired by the need for streamlined communication and organization within educational institutions.
 
-- **Author**: [Your Name's LinkedIn](https://linkedin.com/in/maruf-omer-b320392b3)
+- **Author**: [Maruf Omer](https://linkedin.com/in/maruf-omer-b320392b3)
 
 ## Features
 
