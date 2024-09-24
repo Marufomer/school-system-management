@@ -19,7 +19,6 @@ The School System Web Application is a comprehensive platform designed to manage
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
 - **Backend**: Node.js, Express
 - **Database**: MySQL
-- **Deployment**: Firebase for hosting and Google Cloud Run for backend
 
 ## Installation
 
