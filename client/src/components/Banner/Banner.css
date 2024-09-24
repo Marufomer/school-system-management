@@ -1,0 +1,10 @@
+button:hover {
+    background-color: rgb(35, 83, 134) !important;
+    box-shadow: 5px 5px 5px  rgb(235, 232, 232);
+}
+.banner-text {
+    text-align: center;
+}
+.about-button {
+    color: white !important;
+}

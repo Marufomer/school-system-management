@@ -1,0 +1,27 @@
+.exam-header {
+    margin-top: 8rem;
+}
+.quiz-text {
+    font-size: 0.8rem;
+}
+.quiz-link {
+    color: black;
+}
+.quiz-modal {
+    background: white;
+    border-radius: 0;
+    border: 0;
+}
+.quiz-modal:hover {
+    background-color: white !important;
+    color: #656565 !important;
+}
+.exam-button {
+    color: white !important;
+    background-color: rgb(49 112 181);
+}
+.exam-passw-input {
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
+}

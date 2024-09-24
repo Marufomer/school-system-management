@@ -1,0 +1,15 @@
+.nav {
+    background-color: #245487;
+    border-bottom-left-radius: 0.75rem;
+    border-bottom-right-radius: 0.75rem;
+    font-weight: 600;
+}
+.link:hover {
+    color: #c3cad2 !important;
+}
+.pro-id {
+    font-size: 0.7rem;
+}
+.header-hidden a {
+    color: white !important;
+}

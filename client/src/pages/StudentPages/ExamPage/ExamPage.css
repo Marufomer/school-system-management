@@ -1,0 +1,36 @@
+.exam-container {
+    margin-top: 10rem;
+}
+.qeustion-title {
+    margin-bottom: 2rem;
+}
+.form-check {
+    margin-bottom: 1rem;
+}
+.btn-exam {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.prev-btn {
+    color: white !important;
+    background-color: rgb(168, 168, 168);
+    border: 1px solid rgb(168, 168, 168);
+}
+.prev-btn:hover {
+    background-color: rgb(105, 105, 105) !important;
+}
+.next-btn {
+    color: white !important;
+}
+.d-question {
+    margin-bottom: 2rem;
+    display: inline-block;
+    font-size: 1rem;
+}
+.d-text {
+    font-size: 0.9rem;
+}
+.d-row{
+    margin-top: 3rem;
+}
+

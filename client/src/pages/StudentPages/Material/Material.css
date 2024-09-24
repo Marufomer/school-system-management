@@ -1,0 +1,19 @@
+.d-material {
+    margin-top: 8rem;
+}
+.material-header {
+    padding: 1rem;
+    border-radius: 0 !important;
+}
+.container-material {
+    padding: 1.5rem;
+}
+.material-item {
+    margin-bottom: 1rem;
+    background-color: rgb(243 244 246) !important;
+    border: 1px solid rgb(172, 163, 163);
+}
+.file-format-icon {
+    display: inline-block;
+    margin-right: 1rem;
+}

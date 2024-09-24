@@ -1,0 +1,25 @@
+a {
+    text-decoration: none;
+    color: rgb(155, 160, 168);
+}
+.side-hidden {
+    display: inline-block;
+}
+a:hover {
+    color: #245487;
+}
+.side {
+    margin-top: 100px;
+}
+button {
+    text-decoration: none !important;
+    color: #245487 !important;
+}
+button:hover {
+    color: white !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+.hidden {
+    display: none;
+}

@@ -1,0 +1,12 @@
+.side-bar {
+    border-top-right-radius: 0.75rem;
+    border-bottom-right-radius: 0.75rem;
+}
+.side-text {
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+.foot {
+    margin-top: 11rem;
+    text-align: center;
+}

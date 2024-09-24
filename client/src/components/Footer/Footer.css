@@ -1,0 +1,23 @@
+footer a {
+	color: rgba(206, 206, 206, 0.6);
+	text-decoration: none;
+	line-height: 10px;
+}
+footer a:hover {
+	color: white;
+}
+
+footer .a i {
+	margin-top: 30px;
+	font-size: 25px;
+}
+footer a i:hover {
+	opacity: 0.8;
+}
+
+
+@media (min-width: 768px) {
+.custom-padding-left {
+    padding-left: 15rem;
+}
+}

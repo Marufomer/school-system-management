@@ -1,0 +1,18 @@
+.pro-basic {
+    display: block;
+    margin-bottom: 1rem;
+}
+.old-basic {
+    margin-top: 1.5rem;
+}
+.form-pro {
+    margin-bottom: 1rem;
+}
+.btn-pro {
+    color: white !important;
+}
+.pro-image {
+    width: 12rem;
+    height: 12rem;
+    border-radius: 5%;
+}

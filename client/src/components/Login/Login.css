@@ -1,0 +1,23 @@
+form h3 {
+    color: rgb(49, 112, 181);
+    font-weight: 700;
+}
+h1 {
+   color: rgb(49 112 181 ); 
+}
+
+form div p span:hover {
+    color:  rgb(38, 78, 124) !important;
+}
+form .input {
+    border-radius: 0;
+    padding: 10px;
+    border: 1px solid #3775b8;
+}
+form button:hover {
+    background-color: rgb(35, 83, 134) !important;
+    box-shadow: 5px 5px 5px  rgb(235, 232, 232);
+}
+.login-button {
+    color: white !important;
+}
