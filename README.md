@@ -1,6 +1,6 @@
 # School System Web Application
 
-![School System Screenshot](<./images/slide(home).png>)
+![School System Screenshot](./images/slide(home).png)
 
 ## Introduction
 
@@ -25,32 +25,28 @@ The School System Web Application is a comprehensive platform designed to manage
 
 Follow these steps to get the project up and running on your local machine.
 
-1.  **Clone the repository**:
-
+1. **Clone the repository**:
     ```bash
     git clone https://github.com/Marufomer/school-system-management.git
     cd your-repo
     ```
 
-2.  **Install dependencies for backend**:
-
+2. **Install dependencies for backend**:
     ```bash
     cd backend
     npm install
     ```
 
-3.  **Install dependencies for frontend**:
-
+3. **Install dependencies for frontend**:
     ```bash
     cd ../frontend
     npm install
     ```
 
-4.  **Set up your environment variables**:
-    Create a `.env` file in the backend directory with the following:
+4. **Set up your environment variables**:
+   Create a `.env` file in the backend directory with the following:
 
-        ```env
-        
+    ```env
     SECRET=your-jwt-sercert
     USER=your-database-user
     DATABASE=your-database-name
@@ -58,14 +54,13 @@ Follow these steps to get the project up and running on your local machine.
     PASSWORD=your-database-password
     ```
 
-5.  **Run the backend server**:
-
+5. **Run the backend server**:
     ```bash
     cd backend
     npm start
     ```
 
-6.  **Run the frontend**:
+6. **Run the frontend**:
     ```bash
     cd frontend
     npm start
@@ -96,3 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 
 **Contact**: For any inquiries, please reach out to [omermaruf07@gmail.com](omermaruf07@gmail.com).
+
