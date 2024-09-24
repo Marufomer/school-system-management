@@ -56,14 +56,14 @@ Follow these steps to get the project up and running on your local machine.
 
 5. **Run the backend server**:
     ```bash
-    cd backend
-    npm start
+    cd school-backend
+    nodemon app.js
     ```
 
 6. **Run the frontend**:
     ```bash
-    cd frontend
-    npm start
+    cd client
+    npm run dev
     ```
 
 ## Usage
