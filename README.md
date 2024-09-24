@@ -27,7 +27,7 @@ Follow these steps to get the project up and running on your local machine.
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/Marufomer/school-system-management.git
-    cd your-repo
+    cd school-system-management
     ```
 
 2. **Install dependencies for backend**:
